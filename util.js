@@ -7,6 +7,9 @@ const Util = {
     },
     reduce (x, y) {
         return x - y
+    },
+    square (x){
+        return x*x;
     }
 
 }
