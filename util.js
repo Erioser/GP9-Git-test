@@ -4,6 +4,9 @@ const Util = {
 
     sum (x, y) {
         return x + y
+    },
+    reduce (x, y) {
+        return x - y
     }
 
 }
