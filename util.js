@@ -10,6 +10,9 @@ const Util = {
     },
     multiple (x, y ) {
         return x * y
+    },
+    square (x) {
+        return x * x
     }
 
 }
